@@ -1,15 +1,11 @@
-h1{
-
+body{
+    font-family: 'Bai Jamjuree', sans-serif;
 }
-
-h2{
-
+body p{
+    color: #7d7d7d;
 }
-h3{
-
-}
-p{
-
+body h1 h2 h3{
+    color: #595959;
 }
 .header{
     color: hsl(171, 66%, 44%);
@@ -28,11 +24,33 @@ p{
     display: flex;
     justify-content: center;
 }
-.footerimg{
+.logo{
     display: flex;
-    flex-direction: row;
+    justify-content: space-around;
 }
 .link {
     color: #7d7d7d;
     margin-right: 5px;
+}
+.s1{
+
+}
+.s2{
+
+}
+.s3{
+
+}
+.s4{
+
+}
+.s5{
+
+}
+.s6{
+    text-align: center;
+    font-size: 20px;
+}
+.s6 p{
+    font-size: 18px;
 }
