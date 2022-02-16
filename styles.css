@@ -33,6 +33,7 @@ button{
 }
 .headerlogo{
     background-image: url(/images/bg-header-desktop.png);
+    width: 100%;
     padding-top: 120px;
     padding-bottom: 30px;
     font-size: 180px;
